@@ -350,6 +350,22 @@ Built with:
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### What this means:
+-  You can use this code for commercial projects
+-  You can modify and distribute the code
+-  You must include the copyright notice and license
+-  No warranty is provided
+
+### Components:
+- **Backend** (Node.js/Express): MIT License
+- **Frontend** (React): MIT License  
+- **Smart Contracts** (Solidity): MIT License
+- **Documentation**: CC BY 4.0 (Creative Commons Attribution)
+
 **Last Updated:** November 2025  
 **Version:** 1.0.0-dev  
 **Status:** Active Development
